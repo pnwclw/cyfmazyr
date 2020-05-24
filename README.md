@@ -16,7 +16,7 @@ python -m venv venv
 
 Open command prompt in current directory and activate `virtualenv`
 ```
-venv\Scripts\acvitate
+source venv\Scripts\activate
 ```
 
 Clone repository
