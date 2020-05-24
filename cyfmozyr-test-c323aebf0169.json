@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cyfmozyr-test",
+  "private_key_id": "c323aebf0169ce52915fd8ec99df682d99ca0513",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm/pux3CE31fZ6\ne5rzJ7xMeu8gSb865FwFpL1Ivh7h9JYtFgv7v5BCvHxiXyp3IyGTKA/6ERz3mqeG\nyFG3+fLhcqxi+ptmKA3Scj2IqJHlDLXmbkRPgg/ur4QUXH7/jsxbWCFbuHIH6hP8\nKKfF7qvTbd/9OAASC8plhV/DfovBChzM9NpVEXXYkKTaw/4m6Avu+KRv64cCAKX9\nMrARJiI7aPY4MNl4Kq8Q8bHYnx+aeQdIWdaT/2Y5PbYb2K6i78WTXbpfNKylNypV\nHDHmziw9Ie24y2BPE9vYig8AkS9N0bVBWrI6msujs44hZRsvm8yAiJkAOdwjzu1x\n47eiVGi5AgMBAAECggEAD5y4E52/4Ud4nqTVrKvnV8MafgtG/IuC6ugm5hkYLAnA\nzIBGKIgVRZf3jP7WqoK3Tdmt/LQC4EcuKFSsByYwBdHBuhMx2hAekrEpfZA864wP\nqXZfnotLUAZKs9id6uh/xH5tx/RrfL/ulGF8pe2VVNPt3++PWiCOEIWymUVIbYiM\nxU+I8FBCD8/j4MD+hdc8OWVvmXKV9NpRUIl1dFDuMncjuknMdWeDQHGYw3EKTBeU\nkSh8KTlc8N7S8tXXCxOQeYVmDJicpLfsxF+cpX247v8OAI/br0zC9/ECZkcspkFF\n3szUN9VfnVA+6yLP5Pr0y7sTRKyzJrMO+UNKSZuGsQKBgQDa+wQlpdGWudS0AHfe\njub6e2XvOJVUVm60Rk9I1h9f3OWd/YPGUZK669b/IKA1Q3lfwJEe6HIuw3DH4+bC\nvWCk53ADWAwGdC7kynTGU7Zv2wqc6/iZWLIEq0CYboQMR12VYdfgzJX4X5/hc3RS\nXVr5QCiqKCDRtdx9IWvFmELkDQKBgQDDOcGmBnuQEKfQkeTeK2wR4no5QMWSlX9i\nyIemVMo8sO94F1kaXuAgRNLIPClLJNLAsbs1XQVVczhG2lyODqXAJqX+JEDfdhMd\nYFq/uEN209Kq216SBIcZX1fScA7vvYv6GU73LFqrSxokHnizb/zQIYDGHerWOgtw\nLPFMy3HQXQKBgQCz4xMEDlS/WgcGm3/dH01VpTsWqkfZ0Wr9wuhssCFz8ZXbFKBE\nsUw1K3oheV7CgpxZcWqFlnP+QGUMgAZYIZQbw1e8F39Baf3/yuTk623qM2ljgWFm\nL3uF5FybG+Zz48hX59mcfNQSBhPj86Ex7CjIqtD8/xv+ykPHs0XCO5NvnQKBgBfY\nhSvHXO5i6mySdXchrKieljlKDRfzhMTHI7KQZsd1ATsU9wA+mHe4kFp+5rhT/h4l\nV22UOCOQ2E3nPCjp5xsKXXomaXoiDQGolE0Yr7zi8LeH5gxF206hE7QTle94opFg\n6AFO/KAxozbINgwM4L93aChK3TVfj6gbBTpRG0zNAoGAH+w3BKUh3sEbzL2aodBx\nhkrnxgGA4QE2nlvMC2urU9KcSloGm2CZeDQtpQENYPhSm1oCs/KhZN1B7dUtYwEl\nhGOyZ0IjeenMwRs+h2JZfrCyA5QLedZW6+wUyoNDrIoWxxAD2SHwHao1MVtuH+Z1\nBgh6RqXgER0kVJnl2vNbdIg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cyfmazyr-test@cyfmozyr-test.iam.gserviceaccount.com",
+  "client_id": "105758374902826496076",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cyfmazyr-test%40cyfmozyr-test.iam.gserviceaccount.com"
+}
