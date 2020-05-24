@@ -1,1 +1,1 @@
-web: gunicorn bxftoken.wsgi --timeout 3600
+web: gunicorn cyfmazyr.wsgi --timeout 3600
